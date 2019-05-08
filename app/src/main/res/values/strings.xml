@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DaggerGlobantSamples</string>
+    <string name="email">Email</string>
+    <string name="password">Contrasena</string>
+    <string name="login">Login</string>
+    <string name="invalid_user">Usuario invalido.</string>
+    <string name="profile">Profile</string>
+    <string name="age">Edad</string>
+    <string name="update">Actualizar</string>
+    <string name="log_out">Cerrar sesion</string>
+    <string name="next">Siguiente</string>
+    <string name="name">Nombre</string>
+    <string name="go_back_profile">Volver al perfil</string>
+    <string name="call_ws">Llamar Ws</string>
+</resources>
